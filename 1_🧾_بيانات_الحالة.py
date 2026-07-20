@@ -213,3 +213,4 @@ if submitted:
         save_entries(entries)
         st.success("تم تسجيل الحالة بنجاح ✅")
         st.balloons()
+
